@@ -7,9 +7,7 @@ public with sharing class Demo {
         return a+b; 
     }
 
-    public  Sub(Integer a, Integer b)
-    {
-        return a-b; 
-    }
+    
+    
     
 }
