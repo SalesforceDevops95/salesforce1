@@ -6,8 +6,12 @@ public with sharing class Demo {
     {
         return a+b; 
     }
-
-    
-    
-    
+    public division(Integer a, Integer b)
+    {
+        return a/b;
+    }
+    public multiplication(Integer a, Integer b)
+    {
+        return a*b;
+    }
 }
