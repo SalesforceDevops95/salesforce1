@@ -1,5 +1,5 @@
 public with sharing class SampleOne {
-    public SampleOne() {
-
+    public Div(Inetger a, Integer b) {
+        retrun a/b;
     }
 }
