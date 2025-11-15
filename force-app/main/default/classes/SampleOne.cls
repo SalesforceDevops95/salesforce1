@@ -10,6 +10,5 @@ public with sharing class SampleOne {
     }
 
 
-    public Subtract(Integer x, Integer y ){
-        return x-y;
+    
 }
