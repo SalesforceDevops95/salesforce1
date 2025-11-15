@@ -1,5 +1,6 @@
 public with sharing class SampleOne {
-    public SampleOne() {
-
+   
+    Public Sub(Integer x, Integer y ){
+        return x-y;
     }
 }
