@@ -1,5 +1,5 @@
 public with sharing class SampleOne {
-    public SampleOne() {
-
+    public Add(Integer a, Integer b) {
+        return a+b;
     }
 }
